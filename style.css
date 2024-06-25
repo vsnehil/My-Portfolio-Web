@@ -261,6 +261,7 @@ a {
     background-color: red;
     color: white;
     transition: .15s ease-in-out;
+    box-shadow: 0 0 30px 5px red;
 }
 
 /* About MediaQuery */
